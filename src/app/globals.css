@@ -19,3 +19,9 @@ body {
   background-image: url('https://images.pexels.com/videos/7385122/4k-background-loop-ocean-7385122.jpeg');
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.zain-regular {
+  font-family: "Zain", serif;
+  font-weight: 400;
+  font-style: normal;
+}
